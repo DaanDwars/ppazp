@@ -4,7 +4,7 @@ Zo zie je maar weer.
 
 ## Zo.
 
-Dat zij Lammert Grofsmid.
+Dat zei Lammert Grofsmid.
 
 
 ### Zo. Ziezo.
