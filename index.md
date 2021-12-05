@@ -20,5 +20,7 @@
 
 # Register 
 
-Register [here](https://bit.ly/31sn8B3) to be on the mailing list, and receive the zoom link:
+Register [here](https://bit.ly/31sn8B3) to be on the mailing list, and receive the zoom link.
+
+Click [here](https://bit.ly/3xZe2ru) for a concise list of video's and papers on Plant Propagation Algorithm.
 
