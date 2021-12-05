@@ -1,3 +1,6 @@
+![Book logo](zoomposium.jpg)
+
+
 # Ziezo.
 
 Zo zie je maar weer.
