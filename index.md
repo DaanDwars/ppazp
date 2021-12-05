@@ -20,9 +20,5 @@
 
 # Register 
 
-Register here to be on the mailing list, and receive the zoom link:
+Register [##here##](https://bit.ly/31sn8B3) to be on the mailing list, and receive the zoom link:
 
-https://bit.ly/31sn8B3
-
-
-[Visit](https://github.com)
