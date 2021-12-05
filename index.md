@@ -1,13 +1,21 @@
 ![Book logo](zoomposium.jpg)
 
 
-# Ziezo.
+# Program (in CEST time zone)
 
-Zo zie je maar weer.
+13:00 Speaker #1
 
-## Zo.
+13:20 Speaker #2
 
-Dat zei Lammert Grofsmid.
+13:40 Speaker #3
+
+14:00 break
+
+14:30 Speaker #4
+
+14:50 Speaker #4
+
+15:10 Speaker #4
 
 
 ### Zo. Ziezo.
