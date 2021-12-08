@@ -1,6 +1,6 @@
 ![Book logo](zoomposium.jpg)
 
-The plant propagation algorithm is a crossoverless population based evolutionary algorithm,
+##### The plant propagation algorithm is a crossoverless population based evolutionary algorithm, in
 
 # Program (in CEST time zone)
 <BR>
