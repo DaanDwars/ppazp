@@ -3,17 +3,17 @@
 
 # Program (in CEST time zone)
 
-13:00 Daan van den Berg (UvA / VU Universities, Yamasan Science&Education) - PPA & TSP
+#### 13:00 Daan van den Berg (UvA / VU Universities, Yamasan Science&Education) - PPA & TSP
 
 Experiments conducted by Levi Koppenhol show that PPA show parameter dependence on the Euclidean Traveling Salesman Problem. However, it also shows to be unsensitive to instance specifics.
 
 
-13:20 Nielis Brouwer (University of Amsterdam)
+#### 13:20 Nielis Brouwer (University of Amsterdam)
 
 TextTextTextText
 
 
-13:40 Eric Fraga (University College London) - Ranking solutions for fitness in PPA Multi-Objective optimization
+#### 13:40 Eric Fraga (University College London) - Ranking solutions for fitness in PPA Multi-Objective optimization
 
 The PPA uses fitness as the key driver for propagation.  For single objective optimization problems, a simple and effective fitness ranking can be based on the objective function value.  For multi-objective optimization, ranking the solutions in a population is more complex.  This talk presents 3 alternatives and illustrates their impact on a simple problem of the design of the operating schedule for a batch reactor.
 
