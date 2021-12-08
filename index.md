@@ -1,6 +1,6 @@
 ![Book logo](zoomposium.jpg)
 
-##### The plant propagation algorithm is a crossoverless population based evolutionary algorithm, in
+##### The plant propagation algorithm is a crossoverless population based evolutionary algorithm, in which fitter individuals produce more offspring with smaller mutations, and unfitter individuals produce fewer offspring with larger mutations in an effort to balance the forces of exploration and exploitation. It is relatively successful on continuous benchmark test functions, finding hard NP-complete problem instances and image approximation in computational art. We know relatively much about its parameter tuning and control, have some insight in multiobjective optimization and Pareto-fronts, and have a number of variations and practical applications in areas such as scheduling and chemical engineering. This mini zoomposium is to facilitate the dissemination of earlier published work, work-in-progress and staging ideas, as well as staying connected as a community.
 
 # Program (in CEST time zone)
 <BR>
