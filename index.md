@@ -6,12 +6,12 @@
   
 #### 13:00 Daan van den Berg (UvA, VU, Yamasan) - PPA & TSP: a troubled marriage
 
-###### A first set of experiments conducted by Levi Koppenhol show that PPA has parameter sensitivity on the Euclidean Traveling Salesman Problem. However, it also shows to be unsensitive to instance specifics.
+##### A first set of experiments conducted by Levi Koppenhol show that PPA has parameter sensitivity on the Euclidean Traveling Salesman Problem. However, it also shows to be unsensitive to instance specifics.
 <BR>
 
 #### 13:20 Nielis Brouwer (University of Amsterdam)
 
-###### TextTextTextText
+##### TextTextTextText
 <BR><BR>
 
 #### 13:40 Eric Fraga (University College London) - Ranking solutions for fitness in PPA Multi-Objective optimization
