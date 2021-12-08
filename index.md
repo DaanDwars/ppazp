@@ -2,44 +2,51 @@
 
 
 # Program (in CEST time zone)
-
+<BR>
+  
 #### 13:00 Daan van den Berg (UvA, VU, Yamasan) - PPA & TSP: a troubled marriage
 
-A first set of experiments conducted by Levi Koppenhol show that PPA has parameter sensitivity on the Euclidean Traveling Salesman Problem. However, it also shows to be unsensitive to instance specifics.
-
+###### A first set of experiments conducted by Levi Koppenhol show that PPA has parameter sensitivity on the Euclidean Traveling Salesman Problem. However, it also shows to be unsensitive to instance specifics.
+<BR>
 
 #### 13:20 Nielis Brouwer (University of Amsterdam)
 
-TextTextTextText
-
+###### TextTextTextText
+<BR><BR>
 
 #### 13:40 Eric Fraga (University College London) - Ranking solutions for fitness in PPA Multi-Objective optimization
 
-The PPA uses fitness as the key driver for propagation.  For single objective optimization problems, a simple and effective fitness ranking can be based on the objective function value.  For multi-objective optimization, ranking the solutions in a population is more complex.  This talk presents 3 alternatives and illustrates their impact on a simple problem of the design of the operating schedule for a batch reactor.
-
+###### The PPA uses fitness as the key driver for propagation.  For single objective optimization problems, a simple and effective fitness ranking can be based on the objective function value.  For multi-objective optimization, ranking the solutions in a population is more complex.  This talk presents 3 alternatives and illustrates their impact on a simple problem of the design of the operating schedule for a batch reactor.
+<BR><BR>
 
 #### 14:00 break (@home)
 
-Everybody makes their own coffee.
-
+###### Everybody makes their own coffee. In their own home.
+<BR><BR>
 
 #### 14:30 Danny Dijkzeul (UvA, Cover Genius)
 
-TextTextTextText
-
+###### TextTextTextText
+<BR><BR>
 
 #### 14:50 Dante Niewenhuis (UvA)
 
-TextTextTextText
-
+###### TextTextTextText
+<BR>
 
 #### 15:10 A possible 6th speaker 
 
-
+###### With a possible 6th subject.
+<BR>
 
 # Register 
+<BR>
 
-Register >[here](https://bit.ly/31sn8B3)< to be on the mailing list, and receive the zoom link.
+Register >[here](https://bit.ly/31sn8B3)< to be on the mailing list and receive the zoom link.
+<BR><BR>
+
+# Background info on PPA
+<BR>
 
 Click >[here](https://bit.ly/3xZe2ru)< for a concise list of video's and papers on Plant Propagation Algorithm.
 
