@@ -21,9 +21,9 @@
 ##### The PPA uses fitness as the key driver for propagation.  For single objective optimization problems, a simple and effective fitness ranking can be based on the objective function value.  For multi-objective optimization, ranking the solutions in a population is more complex.  This talk presents 3 alternatives and illustrates their impact on a simple problem of the design of the operating schedule for a batch reactor.
 <BR><BR>
 
-#### 14:00 break (@home)
+#### 14:00 break (@home) <img align="right" width="100" src="koffie.jpg">  
 
-##### Everybody makes their own coffee. In their own home.
+##### Everybody pedestrianly makes their own coffee. In their own home. Because we need it. Yes, that will be good.
 <BR><BR>
 
 #### 14:30 Danny Dijkzeul (UvA, Cover Genius) - Painting with Evolutionary Algorithms <img align="right" width="100" src="Abdel.png">  
@@ -31,15 +31,15 @@
 ##### A fixed number of brush strokes images are initialized on a canvas, their position, size, rotation, colour, stroke type and draw- ing index all randomly chosen. These attributes are then modi ed by stochastic hillClimbing, simulated annealing or the plant propagation algorithm, approximating a target image ever closer. This talk discusses the results
 <BR><BR>
 
-#### 14:50 Dante Niewenhuis (UvA) <img align="right" width="100" src="Abdel.png">
+#### 14:50 Dante Niewenhuis (UvA) 
 
 ##### TextTextTextText
-<BR>
+<BR><BR>
 
-#### 15:10 A possible 6th speaker 
+#### 15:10 A possible 6th speaker <img align="right" width="100" src="Abdel.png">
 
 ##### With a possible 6th subject.
-<BR>
+<BR><BR>
 
 ## Register 
 <BR>
