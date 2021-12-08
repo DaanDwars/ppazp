@@ -4,14 +4,14 @@
 
 # Program (in CEST time zone)
 <BR>
-  
-#### 13:00 Daan van den Berg (UvA, VU, Yamasan) - PPA & TSP: a troubled marriage
-<img align="right" width="100" src="DaanFoto.jpg">
+
+#### 13:00 Daan van den Berg (UvA, VU, Yamasan) - PPA & TSP: a troubled marriage <img align="right" width="100" src="DaanFoto.jpg">  
+
 ##### A first set of experiments conducted by Levi Koppenhol show that PPA has parameter sensitivity on the Euclidean Traveling Salesman Problem. However, it also shows to be unsensitive to instance specifics.
 <BR>
 
-#### 13:20 Nielis Brouwer (University of Amsterdam) - Survivor Selection in a Crossoverless Evolutionary Algorithm
-<img align="right" width="100" src="Daan_pasfoto.jpg">
+#### 13:20 Nielis Brouwer (University of Amsterdam) - Survivor Selection in a Crossoverless Evolutionary Algorithm <img align="right" width="100" src="Daan_pasfoto.jpg">
+
 ##### PPA defaultly deploys plus-selection method for survivor selection – combining parents and offspring population and then selecting the best popSize individuals. In this study, we explore 8 different survivor selection methods (comma selection, tourna- ment selection with and without replacement, elitist tournament selec- tion, and (elitist) roulette wheel selection) on 59 continuous benchmark test function instances and discuss the results.
 <BR><BR>
 
