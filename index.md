@@ -5,17 +5,17 @@
 # Program (in CEST time zone)
 <BR>
 
-#### 13:00 Daan van den Berg (UvA, VU, Yamasan) - PPA & TSP: a troubled marriage <img align="right" width="100" src="DaanFoto.jpg">  
+#### 13:00 Daan van den Berg (UvA, VU, Yamasan) - PPA & TSP: a troubled marriage <img align="right" width="100" src="Daan.jpg">  
 
 ##### A first set of experiments conducted by Levi Koppenhol show that PPA has parameter sensitivity on the Euclidean Traveling Salesman Problem. However, it also shows to be unsensitive to instance specifics.
 <BR>
 
-#### 13:20 Nielis Brouwer (University of Amsterdam) - Survivor Selection in a Crossoverless Evolutionary Algorithm <img align="right" width="100" src="Daan_pasfoto.jpg">
+#### 13:20 Nielis Brouwer (University of Amsterdam) - Survivor Selection in a Crossoverless Evolutionary Algorithm <img align="right" width="100" src="Abdel.png">  
 
 ##### PPA defaultly deploys plus-selection method for survivor selection – combining parents and offspring population and then selecting the best popSize individuals. In this study, we explore 8 different survivor selection methods (comma selection, tourna- ment selection with and without replacement, elitist tournament selec- tion, and (elitist) roulette wheel selection) on 59 continuous benchmark test function instances and discuss the results.
 <BR><BR>
 
-#### 13:40 Eric Fraga (University College London) - Ranking solutions for fitness in PPA Multi-Objective optimization
+#### 13:40 Eric Fraga (University College London) - Ranking solutions for fitness in PPA Multi-Objective optimization <img align="right" width="100" src="Eric.jpg">  
 
 ##### The PPA uses fitness as the key driver for propagation.  For single objective optimization problems, a simple and effective fitness ranking can be based on the objective function value.  For multi-objective optimization, ranking the solutions in a population is more complex.  This talk presents 3 alternatives and illustrates their impact on a simple problem of the design of the operating schedule for a batch reactor.
 <BR><BR>
@@ -25,12 +25,12 @@
 ##### Everybody makes their own coffee. In their own home.
 <BR><BR>
 
-#### 14:30 Danny Dijkzeul (UvA, Cover Genius) - Painting with Evolutionary Algorithms
+#### 14:30 Danny Dijkzeul (UvA, Cover Genius) - Painting with Evolutionary Algorithms <img align="right" width="100" src="Abdel.png">  
 
 ##### A fixed number of brush strokes images are initialized on a canvas, their position, size, rotation, colour, stroke type and draw- ing index all randomly chosen. These attributes are then modi ed by stochastic hillClimbing, simulated annealing or the plant propagation algorithm, approximating a target image ever closer. This talk discusses the results
 <BR><BR>
 
-#### 14:50 Dante Niewenhuis (UvA)
+#### 14:50 Dante Niewenhuis (UvA) <img align="right" width="100" src="Abdel.png">
 
 ##### TextTextTextText
 <BR>
