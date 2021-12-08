@@ -1,7 +1,8 @@
 ![Book logo](zoomposium.jpg)
 
 ##### The plant propagation algorithm is a crossoverless population based evolutionary algorithm, in which fitter individuals produce more offspring with smaller mutations, and unfitter individuals produce fewer offspring with larger mutations in an effort to balance the forces of exploration and exploitation. It is relatively successful on continuous benchmark test functions, finding hard NP-complete problem instances and image approximation in computational art. We know relatively much about its parameter tuning and control, have some insight in multiobjective optimization and Pareto-fronts, and have a number of variations and practical applications in areas such as scheduling and chemical engineering. This mini zoomposium is to facilitate the dissemination of earlier published work, work-in-progress and staging ideas, as well as staying connected as a community.
-
+<BR>
+  
 # Program (in CEST time zone)
 <BR>
 
@@ -40,13 +41,13 @@
 ##### With a possible 6th subject.
 <BR>
 
-# Register 
+### Register 
 <BR>
 
 ##### Register >[here](https://bit.ly/31sn8B3)< to be on the mailing list and receive the zoom link.
 <BR><BR>
 
-# Background info on PPA
+### Background info on PPA
 <BR>
 
 ##### Click >[here](https://bit.ly/3xZe2ru)< for a concise list of video's and papers on Plant Propagation Algorithm.
