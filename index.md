@@ -31,7 +31,7 @@
 ##### A fixed number of brush strokes images are initialized on a canvas, their position, size, rotation, colour, stroke type and draw- ing index all randomly chosen. These attributes are then modi ed by stochastic hillClimbing, simulated annealing or the plant propagation algorithm, approximating a target image ever closer. This talk discusses the results
 <BR><BR>
 
-#### 14:50 Dante Niewenhuis (UvA) - Genetic programming: making hard benchmark functions for PPA <img align="right" width="100" src="Dante.jpg">
+#### 14:50 Dante Niewenhuis (UvA) - Genetic programming: making hard benchmark functions <img align="right" width="100" src="Dante.jpg">
 
 ##### Benchmark functions are important for performance comparison of optimization algorithms. In this work-in-progress, we attempt to create hard benchmark functions for the Plant Propagation Algorithm with genetic progamming. We will present some preliminary progress, and discuss the challenge of finding a suitable measure of 'hardness' for the evolving benchmark functions.
 <BR><BR>
