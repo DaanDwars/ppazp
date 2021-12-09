@@ -33,7 +33,7 @@
 
 #### 14:50 Dante Niewenhuis (UvA) - Genetic programming: making hard benchmark functions for PPA <img align="right" width="100" src="Dante.jpg">
 
-##### Benchmark functions are important in performance comparison of optimization algorithms. In this work-in-progress, we attempt to create hard benchmark functions for the Plant Propagation Algorithm with genetic progamming. We will present some preliminary progress, and discuss the challenge of finding a suitable measure of 'hardness' for the evolving benchmark functions.
+##### Benchmark functions are important for performance comparison of optimization algorithms. In this work-in-progress, we attempt to create hard benchmark functions for the Plant Propagation Algorithm with genetic progamming. We will present some preliminary progress, and discuss the challenge of finding a suitable measure of 'hardness' for the evolving benchmark functions.
 <BR><BR>
 
 #### 15:10 A possible 6th speaker <img align="right" width="100" src="Abdel.png">
