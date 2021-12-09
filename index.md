@@ -23,7 +23,7 @@
 
 #### 14:00 break (@home) <img align="right" width="100" src="koffie.jpg">  
 
-##### Everybody pedestrianly makes their own coffee. In their own home. Because we need it. Yes, that will be good.
+##### Everybody pedestrianly makes their own coffee. In their own home. Because we need it.
 <BR><BR>
 
 #### 14:30 Danny Dijkzeul (UvA, Cover Genius) - Painting with Evolutionary Algorithms <img align="right" width="100" src="Danny.jpg">  
