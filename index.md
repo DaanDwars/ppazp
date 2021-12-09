@@ -11,7 +11,7 @@
 ##### A first set of experiments conducted by Levi Koppenhol show that PPA has parameter sensitivity on the Euclidean Traveling Salesman Problem. However, it also shows to be unsensitive to instance specifics.
 <BR><BR>
 
-#### 13:20 Nielis Brouwer (University of Amsterdam) Survivor Selection in a Crossoverless Evolutionary Algorithm <img align="right" width="100" src="Nielis.jpg">  
+#### 13:20 Nielis Brouwer (UvA) Survivor Selection in a Crossoverless Evolutionary Algorithm <img align="right" width="100" src="Nielis.jpg">  
 
 ##### PPA defaultly deploys plus-selection method for survivor selection – combining parents and offspring population and then selecting the best popSize individuals. In this study, we explore 8 different survivor selection methods (comma selection, tourna- ment selection with and without replacement, elitist tournament selec- tion, and (elitist) roulette wheel selection) on 59 continuous benchmark test function instances and discuss the results.
 <BR><BR>
@@ -31,14 +31,14 @@
 ##### A fixed number of brush strokes images are initialized on a canvas, their position, size, rotation, colour, stroke type and draw- ing index all randomly chosen. These attributes are then modi ed by stochastic hillClimbing, simulated annealing or the plant propagation algorithm, approximating a target image ever closer. This talk discusses the results
 <BR><BR>
 
-#### 14:50 Dante Niewenhuis (UvA) 
+#### 14:50 Dante Niewenhuis (UvA) <img align="right" width="100" src="Dante.jpg">
 
 ##### TextTextTextText
 <BR><BR>
 
 #### 15:10 A possible 6th speaker <img align="right" width="100" src="Abdel.png">
 
-##### With a possible 6th subject.
+##### With a possible 6th subject. Very mysterious as yet.
 <BR><BR>
 
 ## Register 
