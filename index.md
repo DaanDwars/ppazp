@@ -14,7 +14,7 @@
 #### 13:25 Nielis Brouwer (UvA) Survivor Selection in a Crossoverless Evolutionary Algorithm <img align="right" width="100" src="Nielis.jpg">  
 
 ##### By default PPA deploys plus-selection as survivor selection method – selecting the best popSize individuals from the combined parent and offspring populations. We will explore 7 alternative survivor selection methods (comma selection, tournament selection with and without replacement, elitist tournament selection, linear ranking, and (elitist) roulette wheel selection) on 59 continuous benchmark function instances and discuss the results 
-
+<BR><BR>
   
 #### 13:50 break (@home) <img align="right" width="100" src="koffie.jpg">  
 
