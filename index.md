@@ -11,7 +11,7 @@
 ##### The PPA uses fitness as the key driver for propagation.  For single objective optimization problems, a simple and effective fitness ranking can be based on the objective function value.  For multi-objective optimization, ranking the solutions in a population is more complex.  This talk presents 3 alternatives and illustrates their impact on a simple problem of the design of the operating schedule for a batch reactor.
 <BR><BR>
 
-#### 13:25 Quinten van der Post - A scheduling app using the PPA-algorithm <img align="right" width="100" src="Quinten.jpg">  
+#### 13:25 Quinten van der Post - A scheduling app using the PPA-algorithm <img align="right" width="100" src="Quinten2.jpg">  
 
 ##### One HillClimbing algorithm and two implementations of the Plant Propagation Algorithm (PPA-1 and PPA-2) are applied to an instance of the University Course Timetabling Problem from the University of Amsterdam. After completing 10 runs of 200,000 function evaluations each, results show that PPA-1 outperforms the HillClimber, but PPA-2 makes the best timetables. With a live demonstration.
 <BR><BR>
