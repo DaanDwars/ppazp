@@ -11,16 +11,20 @@
 ##### The PPA uses fitness as the key driver for propagation.  For single objective optimization problems, a simple and effective fitness ranking can be based on the objective function value.  For multi-objective optimization, ranking the solutions in a population is more complex.  This talk presents 3 alternatives and illustrates their impact on a simple problem of the design of the operating schedule for a batch reactor.
 <BR><BR>
 
-#### 13:25 Nielis Brouwer (UvA) Survivor Selection in a Crossoverless Evolutionary Algorithm <img align="right" width="100" src="Nielis.jpg">  
+#### 13:25 Quinten van der Post - A scheduling app using the PPA-algorithm <img align="right" width="100" src="Eric.jpg">  
 
-##### By default PPA deploys plus-selection as survivor selection method – selecting the best popSize individuals from the combined parent and offspring populations. We will explore 7 alternative survivor selection methods (comma selection, tournament selection with and without replacement, elitist tournament selection, linear ranking, and (elitist) roulette wheel selection) on 59 continuous benchmark function instances and discuss the results 
-<BR><BR>
+##### With a nice live demonstration.
   
 #### 13:50 break (@home) <img align="right" width="100" src="koffie.jpg">  
 
 ##### Everybody pedestrianly makes their own coffee. In their own home. Because we need it.
 <BR><BR>
 
+#### 13:25 Nielis Brouwer (UvA) Survivor Selection in a Crossoverless Evolutionary Algorithm <img align="right" width="100" src="Nielis.jpg">  
+
+##### By default PPA deploys plus-selection as survivor selection method – selecting the best popSize individuals from the combined parent and offspring populations. We will explore 7 alternative survivor selection methods (comma selection, tournament selection with and without replacement, elitist tournament selection, linear ranking, and (elitist) roulette wheel selection) on 59 continuous benchmark function instances and discuss the results 
+<BR><BR>
+  
 #### 14:10 Daan van den Berg (UvA, VU, Yamasan) - PPA & TSP: a troubled marriage <img align="right" width="100" src="Daan.jpg">  
 
 ##### A first set of experiments conducted by Levi Koppenhol show that PPA has parameter sensitivity on the Euclidean Traveling Salesman Problem. However, it also shows to be unsensitive to instance specifics.
